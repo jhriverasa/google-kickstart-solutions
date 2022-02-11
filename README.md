@@ -1,2 +1,2 @@
-# google-kickstart-solutions
-Contains all solutions to Google Kickstart Coding Competition
+# Google Kickstart Solutions
+(will) Contains all solutions to Google Kickstart Coding Competition
