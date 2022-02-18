@@ -14,3 +14,12 @@ This repo (will) cointain all solutions to Google Kickstart, I decided to put th
 - [Rational Number](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ba1/0000000000434b3c)
 - Cross the Maze
 - Spaceship Defence
+
+## Kickstart 2022
+
+### Practice Round #1
+- [Sample problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404)
+- [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5)
+- [H-Index](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56)
+- [Hex]
+- [Milk Tea]
