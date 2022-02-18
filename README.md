@@ -21,5 +21,5 @@ This repo (will) cointain all solutions to Google Kickstart, I decided to put th
 - [Sample problem](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404)
 - [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5)
 - [H-Index](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56)
-- [Hex]
-- [Milk Tea]
+- Hex
+- Milk Tea
