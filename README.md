@@ -1,5 +1,5 @@
 # Google Kickstart Solutions
-This repo (will) cointain all solutions to Google Kickstart, I decided to put them here, in order to have a "log" and check my progress in competitive programming. I would like to have these solutions in different languages ( C++, Java, Python ..), maybe in the future, however, Im using Python for now. 
+This repo (will) cointain all solutions to Google Kickstart, I decided to put them here, in order to have a "log" and check my progress practicing competitive programming. I would like to have these solutions in different languages ( C++, Java, Python ..), maybe in the future, however, Im using Python for now. 
 
 # Current solutions
 ## Kickstart 2013
