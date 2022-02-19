@@ -14,6 +14,9 @@ This repo (will) cointain all solutions to Google Kickstart, I decided to put th
 - [Rational Number](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ba1/0000000000434b3c)
 - [Cross the Maze](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ba1/00000000004347b2#problem)
 - Spaceship Defence
+### Round B 2013
+- [Sudoku Checker](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ad7/00000000004347b3#problem)
+
 
 ## Kickstart 2022
 
