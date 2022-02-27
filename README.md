@@ -16,7 +16,7 @@ This repo (will) cointain all solutions to Google Kickstart, I decided to put th
 - Spaceship Defence
 ### Round B 2013
 - [Sudoku Checker](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ad7/00000000004347b3#problem)
-
+- [Ignore all my comments](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ad7/0000000000434dfc)
 
 ## Kickstart 2022
 
